@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @irenemann
+- 👋 Hi, I’m @irenemanning
 - 👀 I’m interested in ...SOFTWARE ENGINEERING!
 - 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on apps, websites, and visual or performance art.
